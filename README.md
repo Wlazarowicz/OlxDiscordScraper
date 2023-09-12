@@ -19,7 +19,7 @@ To run this project, you will need to add the following environment variables to
 Install project with pip
 
 ```bash
-  pip install -r requiremenets.txt
+  pip install -r requirements.txt
   python app.py
 ```
     
