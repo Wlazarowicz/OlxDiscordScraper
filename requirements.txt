@@ -1,0 +1,7 @@
+asyncio
+beautifulsoup4
+colorama
+discord
+python-dotenv
+requests
+termcolor

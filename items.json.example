@@ -1,0 +1,18 @@
+[
+    {
+        "url": "https://olx.pl/d/1",
+        "name": "Test item",
+        "price": "1 zł",
+        "date": "Dziś",
+        "image": "https://ireland.apollo.olxcdn.com",
+		"quality": "Nowy"
+    },
+    {
+        "url": "https://olx.pl/d/2",
+        "name": "Test item 2",
+        "price": "2 zł",
+        "date": "Wczoraj",
+        "image": "https://ireland.apollo.olxcdn.com",
+		"quality": "Używany"
+    }
+]
