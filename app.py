@@ -87,7 +87,7 @@ class MyClient(discord.Client):
                 embed.set_author(name='olx.pl', icon_url='https://static.olx.pl/static/olxpl/naspersclassifieds-regional/olxeu-atlas-web-olxpl/static/img/fb/fb-image_redesign.png')
                 ##embed.set_thumbnail(url=item['image'])
                 embed.set_footer(text=item['date'])
-                ##await channel.send(embed=embed)
+                await channel.send(embed=embed)
             await asyncio.sleep(7200)  # task runs every 2 hours
 
     async def on_ready(self):
